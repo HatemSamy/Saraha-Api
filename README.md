@@ -2,7 +2,7 @@
 
 <h1 align="center" id="title">Saraha-Api</h1>
 
-<p align="center"><img src="https://sarahah.top/img/main.jpg" alt="project-image"></p>
+<p align="center"><img src="https://sarahah.top/img/main.jpg" alt="project-image" width="700"></p>
 
 <h2>Introduction:</h2>
 <p id="description"> The Saraha API project is a backend application developed using Node.js, designed to serve as the server-side component of the Saraha messaging platform. Saraha is an anonymous messaging platform where users can send and receive messages without revealing their identities</p>
